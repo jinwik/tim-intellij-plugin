@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jinwik.timintellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jinwik.timintellijplugin.MyBundle
 
 class MyApplicationService {
 
